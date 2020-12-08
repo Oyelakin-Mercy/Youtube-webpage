@@ -1,0 +1,371 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+    margin-top: 7px;
+    width: 100%;
+
+}
+
+.material-icons{
+    margin-left: 24px;
+    margin-top: 7px;
+    color: rgb(97, 96, 96);
+    float: left;
+    cursor: pointer;
+} 
+
+img{
+    height: 17px;
+    width: 23px;
+    margin-left: 24px;
+    margin-top: 10px;
+    clear: left;
+    cursor: pointer;
+}
+.youtube-icon{
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 17px;
+    font-weight: 500;
+    cursor: pointer;
+}
+.superscript{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 10px;
+}
+
+input{
+    float: left;
+    height: 1px;
+    width: 500px;
+    margin-left: 35px;
+    border: 1px solid rgb(221, 219, 219);
+    }
+
+::placeholder{
+    font-size: 17px;
+
+}
+nav{
+    float: left;
+    cursor: pointer;
+}
+.superscript{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 10px;
+}
+.horizontal-nav{
+    margin-left: 241px;
+    height: 49px;
+    background-color: rgb(255, 255, 255);
+    border-bottom: 1px solid rgb(221, 219, 219);
+    cursor: pointer;
+
+}
+
+input{
+margin-left: 8.1%;
+height: 1px;
+width: 570px;
+margin-top: 6px;
+border: 1px solid rgb(221, 219, 219);
+padding: 14px;
+float: left;
+border-radius: 2px;
+
+}
+input:focus{
+    outline: none;    border-radius: 2px;  /* Your border radius here */
+  box-shadow: 0px 0px 1px rgb(221, 219, 219);
+  border:1px solid rgb(2, 2, 187);
+}
+::placeholder{
+    font-size: 17px;
+;
+}
+
+b{
+    margin-top:10px;
+    margin-left: 23px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    float: left;
+    color: rgb(78, 78, 78);
+    cursor: pointer;
+}
+.side{
+    background-color: rgb(219, 219, 219);
+    height: 38px;
+    width: 240px;
+    cursor: pointer;
+}
+
+.sidue-2{
+    clear: both;
+    height: 38px;
+    width: 240px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.light{
+    font-weight: lighter;
+    cursor: pointer;
+}
+.sidue-2:hover{
+    background-color: rgb(243, 243, 243);
+    cursor: pointer;
+}
+.first-menu{
+    border-bottom: 1px solid rgb(226, 223, 223);
+    width: 240px;
+    height: 129px;
+    cursor: pointer;
+}
+.second-menu{
+    margin-top: 10px;
+    border-bottom: 1px solid rgb(226, 223, 223);
+    width: 240px;
+    height: 162px;
+    cursor: pointer;
+}
+.sub-image{
+    height: 25px;
+    width: 25px;
+    margin-left: 25px;
+    margin-top: 7px;
+    border-radius: 57px;
+    display: block;
+    float: left;
+}
+.ligh{
+    font-weight: lighter;
+    margin-top: 14px
+}
+.sidue-1{
+    clear: both;
+    height: 38px;
+    width: 240px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0px 0;
+
+}
+
+.sidue-1:hover{
+    background-color: rgb(243, 243, 243);
+}
+.lightt{
+    font-weight: lighter;
+    margin-top: 11px;
+
+}
+.sub{
+    clear: both;
+    height: 38px;
+    width: 240px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.sub:hover{
+    background-color: rgb(243, 243, 243);
+        }
+.sub-2{
+    margin-top: 17px;
+}
+.third-menu{
+    border-bottom: 1px solid rgb(226, 223, 223);
+    width: 240px;
+    height: 165px;
+    margin-top: 41px;
+}
+.sidee{
+    display: block;
+    margin-top: 9px;
+    float: left;
+}
+.sidee-bar{
+    float: left;
+    margin-top: 6px;
+}
+.fourth-menu{
+    clear: both;
+}
+.lig{
+    font-weight: lighter;
+    margin-top: 10px
+}
+.sub-3{
+    margin-top: 20px;
+}
+.fourth-menu{
+    clear: both;
+    height: 40px;
+    width: 240px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0px 0;
+    margin-top: 45px;
+}
+
+.fourth-menu:hover{
+    background-color: rgb(243, 243, 243);
+}
+.horizontal-nav-2{
+    height: 39px;
+width: 1084px;
+margin-left: 240px;
+border-bottom: 1px solid rgb(221, 219, 219);
+padding: 20px 0 0 25px;
+
+}
+.horizontal-nav-3{
+    height: 600px;
+width: 1083px;
+margin-left: 240px;
+background-color: rgb(247, 247, 247);
+padding: 22px 13px;
+}
+
+.bar{
+    border-radius: 18px;
+    color: white;
+    background-color: rgb(102, 102, 102);
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 7px 12px;
+    font-size: 15px;
+    cursor: pointer;
+}
+.bar-1{
+    border-radius: 18px;
+    color: black;
+    background-color: rgb(238, 237, 237);
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 8px 7px;
+    font-size: 15px;
+    margin-left: 11px;
+    transition-duration: 0.5s;
+    cursor: pointer;
+}
+iframe{
+margin-left: 12px;
+}
+.bar-1:hover{
+    background-color: rgb(221, 220, 220);
+
+}
+.horizontal-nav-4{
+margin-top: 50px;
+width: 1084px;
+margin-left: 3px;
+background-color: rgb(247, 247, 247);
+padding: 110px 0;
+}
+
+
+
+button{
+    margin-top: 6px;
+    width: 60px;
+    height: 31px;
+    border: 1px solid rgb(212, 212, 212);
+    margin-left: 0.7px;
+    border-left: none;
+    background-color: rgb(235, 232, 232);
+}
+button:hover{
+
+    background-color: rgb(219, 217, 217);
+}
+
+.search{
+    height: 25px;
+    width: 25px;
+    margin-top: 3px;
+    margin-left: -2px;
+    cursor: pointer;
+}
+.horizontal-nav .icon{
+    height: 31px;
+    width: 31px;
+    border-radius: 40px;
+    margin-top: 5px;
+}
+.horizontal-nav-5{
+    float: right;
+    margin-right: 26px;
+}
+.horizontal-nav .material-icons{
+margin-right: 3px;
+}
+.frame-1{
+    margin-top: 9px;
+    width: 220px;
+    margin-left: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    color: rgb(37, 37, 37);
+    line-height: 20px;
+    cursor: pointer;
+}
+.frame-2{
+    width: 200px;
+    margin-left: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: lighter;
+    color: rgb(99, 97, 97);
+    line-height: 20px;
+    margin-top: 7px;
+    cursor: pointer;
+}
+.frame-3{
+    margin-top: 9px;
+    margin-left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    color: rgb(37, 37, 37);
+    clear: both;
+    width: 254px;
+    cursor: pointer;
+}
+.fr1{
+    float: left;
+}
+.frame-4{
+    display: block;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: lighter;
+    color: rgb(99, 97, 97);
+    line-height: 20px;
+    margin-top: 7px;
+    cursor: pointer;
+}
+.frame-5{
+    margin-top: 9px;
+    width: 220px;
+    margin-left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    color: rgb(37, 37, 37);
+    line-height: 20px;
+    cursor: pointer;
+}
+.frame-6{
+
+    display: block;
+clear: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: lighter;
+    color: rgb(99, 97, 97);
+    line-height: 20px;
+    margin-top: 7px;
+    cursor: pointer;
+}
