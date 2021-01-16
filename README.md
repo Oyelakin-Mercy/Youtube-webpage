@@ -1,4 +1,4 @@
-# Youtube webpage
+# Youtube
 
 This is a replica of the YouTube webpage that I created with HTML and CSS skills. 
 <br>
